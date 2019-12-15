@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576149957822.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1117779704",
+    "id" : "86CDB214",
+    "lastKnownWriteTime" : 1576322937,
+    "last_content_update" : 1576322937598,
+    "path" : "C:/Users/rhyeu/OneDrive/R_work/graduated_presentation/source/presentation_demo.Rmd",
+    "project_path" : "source/presentation_demo.Rmd",
+    "properties" : {
+        "cursorPosition" : "85,9",
+        "scrollLine" : "61",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
